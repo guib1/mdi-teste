@@ -1,0 +1,10 @@
+C:\Users\guilh\Downloads\mdi\Form2\bin\Debug\Form2.exe.config
+C:\Users\guilh\Downloads\mdi\Form2\bin\Debug\Form2.exe
+C:\Users\guilh\Downloads\mdi\Form2\bin\Debug\Form2.pdb
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.Form2.resources
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.exe
+C:\Users\guilh\Downloads\mdi\Form2\obj\Debug\Form2.pdb

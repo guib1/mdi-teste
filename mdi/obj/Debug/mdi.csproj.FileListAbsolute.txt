@@ -1,0 +1,14 @@
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.csproj.AssemblyReference.cache
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.Form1.resources
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.cache
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\mdi.exe.config
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\mdi.exe
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\mdi.pdb
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\Form2.exe
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\Form2.pdb
+C:\Users\guilh\Downloads\mdi\mdi\bin\Debug\Form2.exe.config
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.csproj.CopyComplete
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.exe
+C:\Users\guilh\Downloads\mdi\mdi\obj\Debug\mdi.pdb
